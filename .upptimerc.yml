@@ -8,7 +8,7 @@ repo: status
 # STATUS SITE CUSTOMIZATIONS
 # ----------------------------------------------
 status-website:
-  baseUrl: /status
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/alaoweb/status/main/img/ALAO-logo-standard.svg
   name: Status Report
   introTitle: ''
