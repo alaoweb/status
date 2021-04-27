@@ -27,9 +27,6 @@ sites:
   - name: ALAO Website
     url: https://www.derekzoladz.com/
     icon: https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png
-  - name: ALAO 2021
-    url: https://2021.alaoweb.org/
-    icon: https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png
   - name: ALAO 2020
     url: https://2020.alaoweb.org/
     icon: https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png
