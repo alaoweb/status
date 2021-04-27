@@ -9,7 +9,7 @@ repo: status
 # ----------------------------------------------
 status-website:
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/alaoweb/status/main/static/img/ALAO-logo-standard.svg
+  logoUrl: https://raw.githubusercontent.com/alaoweb/status/main/img/ALAO-logo-standard.svg
   name: Status Report
   introTitle: ''
   introMessage:
@@ -26,16 +26,16 @@ status-website:
 sites:
   - name: ALAO Website
     url: https://www.derekzoladz.com/
-    icon: https://raw.githubusercontent.com/alaoweb/status/main/static/img/alao-icon.png
+    icon: https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png
   - name: ALAO 2021
     url: https://2021.alaoweb.org/
-    icon: https://raw.githubusercontent.com/alaoweb/status/main/static/img/alao-icon.png
+    icon: https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png
   - name: ALAO 2020
     url: https://2020.alaoweb.org/
-    icon: https://raw.githubusercontent.com/alaoweb/status/main/static/img/alao-icon.png
+    icon: https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png
   - name: TEDSIG 2020
     url: https://tedsig.alaoweb.org/
-    icon: https://raw.githubusercontent.com/alaoweb/status/main/static/img/icon.png
+    icon: https://raw.githubusercontent.com/alaoweb/status/main/img/icon.png
   - name: TEDSIG Speculative Library Futures
     url: https://futures.alaoweb.org/
-    icon: https://raw.githubusercontent.com/alaoweb/status/main/static/img/icon.png
+    icon: https://raw.githubusercontent.com/alaoweb/status/main/img/icon.png
