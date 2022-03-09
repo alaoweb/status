@@ -25,7 +25,7 @@
     "url": "https://2020.alaoweb.org/",
     "icon": "https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png",
     "slug": "alao-2020",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 378,
     "timeYear": 313,
     "dailyMinutesDown": {
+      "2022-03-09": 0,
       "2021-11-16": 15,
       "2021-11-10": 18,
       "2021-10-26": 16
