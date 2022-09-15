@@ -4,18 +4,19 @@
     "url": "https://www.derekzoladz.com/",
     "icon": "https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png",
     "slug": "alao-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 126,
+    "time": 125,
     "timeDay": 133,
     "timeWeek": 143,
     "timeMonth": 144,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2022-07-08": 21,
       "2022-06-21": 31,
       "2021-10-26": 422
@@ -57,9 +58,9 @@
     "url": "https://tedsig.alaoweb.org/",
     "icon": "https://raw.githubusercontent.com/alaoweb/status/main/img/icon.png",
     "slug": "tedsig-2020",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +70,7 @@
     "timeMonth": 225,
     "timeYear": 190,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2021-11-22": 15
     }
   },
