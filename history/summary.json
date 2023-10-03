@@ -4,18 +4,20 @@
     "url": "https://www.derekzoladz.com/",
     "icon": "https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png",
     "slug": "alao-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 91,
-    "timeWeek": 147,
-    "timeMonth": 154,
+    "timeDay": 66,
+    "timeWeek": 134,
+    "timeMonth": 150,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "ALAO 2020",
