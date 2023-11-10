@@ -65,17 +65,15 @@
     "slug": "tedsig-speculative-library-futures",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 167,
     "timeWeek": 237,
     "timeMonth": 196,
     "timeYear": 206,
-    "dailyMinutesDown": {
-      "2023-11-09": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
