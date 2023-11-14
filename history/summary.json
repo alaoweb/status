@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 94,
-    "timeWeek": 143,
-    "timeMonth": 144,
+    "timeDay": 102,
+    "timeWeek": 124,
+    "timeMonth": 145,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2023-10-03": 20
@@ -25,18 +25,17 @@
     "icon": "https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png",
     "slug": "alao-2020",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 421,
-    "timeDay": 252,
-    "timeWeek": 916,
-    "timeMonth": 592,
-    "timeYear": 421,
+    "time": 420,
+    "timeDay": 264,
+    "timeWeek": 897,
+    "timeMonth": 597,
+    "timeYear": 422,
     "dailyMinutesDown": {
-      "2023-11-13": 10,
       "2022-12-15": 23,
       "2022-12-13": 26
     }
@@ -48,18 +47,16 @@
     "slug": "tedsig-2020",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 233,
-    "timeWeek": 212,
-    "timeMonth": 215,
+    "timeDay": 306,
+    "timeWeek": 215,
+    "timeMonth": 217,
     "timeYear": 238,
-    "dailyMinutesDown": {
-      "2023-11-13": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TEDSIG Speculative Library Futures",
@@ -68,17 +65,15 @@
     "slug": "tedsig-speculative-library-futures",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 281,
-    "timeWeek": 214,
-    "timeMonth": 199,
-    "timeYear": 206,
-    "dailyMinutesDown": {
-      "2023-11-13": 9
-    }
+    "time": 221,
+    "timeDay": 315,
+    "timeWeek": 220,
+    "timeMonth": 202,
+    "timeYear": 207,
+    "dailyMinutesDown": {}
   }
 ]
