@@ -26,9 +26,9 @@
     "slug": "alao-2020",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 423,
     "timeDay": 1187,
@@ -36,7 +36,6 @@
     "timeMonth": 389,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2023-12-10": 8,
       "2023-11-22": 16,
       "2022-12-15": 23,
       "2022-12-13": 26
@@ -47,9 +46,9 @@
     "url": "https://tedsig.alaoweb.org/",
     "icon": "https://raw.githubusercontent.com/alaoweb/status/main/img/icon.png",
     "slug": "tedsig-2020",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,7 +57,9 @@
     "timeWeek": 1291,
     "timeMonth": 498,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-10": 0
+    }
   },
   {
     "name": "TEDSIG Speculative Library Futures",
