@@ -24,19 +24,19 @@
     "url": "https://2020.alaoweb.org/",
     "icon": "https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png",
     "slug": "alao-2020",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.98%",
-    "time": 441,
-    "timeDay": 2416,
-    "timeWeek": 1359,
-    "timeMonth": 615,
-    "timeYear": 436,
+    "uptimeDay": "94.30%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.97%",
+    "time": 440,
+    "timeDay": 2080,
+    "timeWeek": 1259,
+    "timeMonth": 600,
+    "timeYear": 435,
     "dailyMinutesDown": {
-      "2023-12-11": 67,
+      "2023-12-11": 82,
       "2023-11-22": 16,
       "2022-12-15": 23,
       "2022-12-13": 26
@@ -47,19 +47,19 @@
     "url": "https://tedsig.alaoweb.org/",
     "icon": "https://raw.githubusercontent.com/alaoweb/status/main/img/icon.png",
     "slug": "tedsig-2020",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 279,
-    "timeDay": 3705,
-    "timeWeek": 1773,
-    "timeMonth": 689,
-    "timeYear": 283,
+    "timeDay": 3093,
+    "timeWeek": 1628,
+    "timeMonth": 671,
+    "timeYear": 282,
     "dailyMinutesDown": {
-      "2023-12-11": 28
+      "2023-12-11": 43
     }
   },
   {
@@ -69,9 +69,9 @@
     "slug": "tedsig-speculative-library-futures",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 3739,
@@ -79,7 +79,7 @@
     "timeMonth": 613,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-12-11": 0
+      "2023-12-11": 16
     }
   }
 ]
