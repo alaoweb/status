@@ -26,9 +26,9 @@
     "slug": "alao-2020",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 441,
     "timeDay": 2416,
@@ -36,7 +36,7 @@
     "timeMonth": 615,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2023-12-11": 17,
+      "2023-12-11": 36,
       "2023-11-22": 16,
       "2022-12-15": 23,
       "2022-12-13": 26
@@ -47,19 +47,19 @@
     "url": "https://tedsig.alaoweb.org/",
     "icon": "https://raw.githubusercontent.com/alaoweb/status/main/img/icon.png",
     "slug": "tedsig-2020",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 279,
-    "timeDay": 4625,
-    "timeWeek": 1948,
-    "timeMonth": 708,
+    "timeDay": 3705,
+    "timeWeek": 1773,
+    "timeMonth": 689,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2023-12-11": 8
+      "2023-12-11": 27
     }
   },
   {
