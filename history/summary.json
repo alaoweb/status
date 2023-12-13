@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 111,
-    "timeWeek": 107,
-    "timeMonth": 131,
+    "timeDay": 30,
+    "timeWeek": 98,
+    "timeMonth": 129,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2023-10-03": 20
@@ -26,20 +26,19 @@
     "slug": "alao-2020",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "94.30%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
     "time": 440,
-    "timeDay": 123,
-    "timeWeek": 1263,
-    "timeMonth": 600,
+    "timeDay": 293,
+    "timeWeek": 1262,
+    "timeMonth": 601,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2023-12-11": 82,
       "2023-11-22": 16,
-      "2022-12-15": 23,
-      "2022-12-13": 26
+      "2022-12-15": 23
     }
   },
   {
@@ -49,14 +48,14 @@
     "slug": "tedsig-2020",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.05%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 279,
-    "timeDay": 107,
-    "timeWeek": 1634,
-    "timeMonth": 672,
+    "timeDay": 212,
+    "timeWeek": 1643,
+    "timeMonth": 675,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2023-12-11": 43
@@ -69,14 +68,14 @@
     "slug": "tedsig-speculative-library-futures",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 132,
-    "timeWeek": 1456,
-    "timeMonth": 599,
+    "timeDay": 45,
+    "timeWeek": 1450,
+    "timeMonth": 596,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2023-12-11": 46
