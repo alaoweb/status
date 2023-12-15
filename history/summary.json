@@ -5,15 +5,15 @@
     "icon": "https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png",
     "slug": "alao-website",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 160,
-    "timeWeek": 109,
-    "timeMonth": 131,
+    "timeDay": 97,
+    "timeWeek": 113,
+    "timeMonth": 129,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2023-10-03": 20
@@ -31,14 +31,13 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 440,
-    "timeDay": 275,
-    "timeWeek": 1263,
-    "timeMonth": 611,
+    "timeDay": 408,
+    "timeWeek": 1277,
+    "timeMonth": 609,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2023-12-11": 82,
-      "2023-11-22": 16,
-      "2022-12-15": 23
+      "2023-11-22": 16
     }
   },
   {
@@ -53,10 +52,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 279,
-    "timeDay": 230,
-    "timeWeek": 1647,
-    "timeMonth": 684,
-    "timeYear": 283,
+    "timeDay": 161,
+    "timeWeek": 1642,
+    "timeMonth": 683,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2023-12-11": 43
     }
@@ -73,9 +72,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 179,
-    "timeWeek": 1451,
-    "timeMonth": 600,
+    "timeDay": 185,
+    "timeWeek": 1448,
+    "timeMonth": 597,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2023-12-11": 46
