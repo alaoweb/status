@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 152,
-    "timeDay": 97,
-    "timeWeek": 125,
-    "timeMonth": 144,
+    "timeDay": 179,
+    "timeWeek": 127,
+    "timeMonth": 146,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2024-04-16": 32
@@ -25,16 +25,16 @@
     "icon": "https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png",
     "slug": "alao-2020",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 380,
-    "timeDay": 306,
-    "timeWeek": 476,
+    "timeDay": 319,
+    "timeWeek": 483,
     "timeMonth": 364,
-    "timeYear": 327,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2024-09-17": 16,
       "2024-03-16": 17,
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 332,
-    "timeDay": 297,
-    "timeWeek": 268,
-    "timeMonth": 272,
+    "time": 333,
+    "timeDay": 286,
+    "timeWeek": 275,
+    "timeMonth": 273,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2024-01-22": 28
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 303,
-    "timeDay": 412,
-    "timeWeek": 323,
-    "timeMonth": 282,
-    "timeYear": 296,
+    "timeDay": 234,
+    "timeWeek": 320,
+    "timeMonth": 281,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2024-01-22": 28
     }
