@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 162,
-    "timeDay": 158,
-    "timeWeek": 753,
-    "timeMonth": 293,
+    "timeDay": 174,
+    "timeWeek": 752,
+    "timeMonth": 289,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2024-04-16": 32
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 334,
-    "timeDay": 186,
-    "timeWeek": 289,
-    "timeMonth": 348,
+    "timeDay": 182,
+    "timeWeek": 283,
+    "timeMonth": 343,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2025-03-30": 16,
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 196,
-    "timeWeek": 242,
-    "timeMonth": 270,
+    "timeDay": 149,
+    "timeWeek": 232,
+    "timeMonth": 266,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-03-30": 23
@@ -67,17 +67,15 @@
     "slug": "tedsig-speculative-library-futures",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 190,
-    "timeWeek": 175,
-    "timeMonth": 238,
-    "timeYear": 252,
-    "dailyMinutesDown": {
-      "2025-03-30": 15
-    }
+    "time": 309,
+    "timeDay": 173,
+    "timeWeek": 177,
+    "timeMonth": 236,
+    "timeYear": 253,
+    "dailyMinutesDown": {}
   }
 ]
