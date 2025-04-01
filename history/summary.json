@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 162,
-    "timeDay": 174,
-    "timeWeek": 752,
-    "timeMonth": 289,
-    "timeYear": 174,
+    "timeDay": 164,
+    "timeWeek": 182,
+    "timeMonth": 292,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2024-04-16": 32
     }
@@ -26,14 +26,14 @@
     "slug": "alao-2020",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 334,
-    "timeDay": 182,
-    "timeWeek": 283,
-    "timeMonth": 343,
+    "timeDay": 168,
+    "timeWeek": 287,
+    "timeMonth": 344,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2025-03-30": 16,
@@ -47,15 +47,15 @@
     "slug": "tedsig-2020",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 149,
-    "timeWeek": 232,
-    "timeMonth": 266,
-    "timeYear": 269,
+    "timeDay": 155,
+    "timeWeek": 234,
+    "timeMonth": 263,
+    "timeYear": 268,
     "dailyMinutesDown": {
       "2025-03-30": 23
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 173,
-    "timeWeek": 177,
-    "timeMonth": 236,
-    "timeYear": 253,
+    "time": 308,
+    "timeDay": 119,
+    "timeWeek": 169,
+    "timeMonth": 232,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   }
 ]
