@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 140,
-    "timeWeek": 163,
-    "timeMonth": 175,
+    "timeDay": 175,
+    "timeWeek": 160,
+    "timeMonth": 174,
     "timeYear": 171,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,16 @@
     "slug": "alao-2020",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 340,
-    "timeDay": 290,
-    "timeWeek": 328,
-    "timeMonth": 393,
+    "timeDay": 292,
+    "timeWeek": 319,
+    "timeMonth": 391,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2025-06-02": 8,
       "2025-03-30": 16,
       "2024-09-17": 16
     }
@@ -51,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 247,
-    "timeWeek": 285,
+    "timeDay": 336,
+    "timeWeek": 287,
     "timeMonth": 303,
-    "timeYear": 274,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2025-03-30": 23
     }
@@ -71,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 291,
-    "timeWeek": 243,
-    "timeMonth": 280,
+    "timeDay": 230,
+    "timeWeek": 253,
+    "timeMonth": 277,
     "timeYear": 250,
     "dailyMinutesDown": {}
   }
