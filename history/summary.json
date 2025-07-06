@@ -4,7 +4,7 @@
     "url": "https://www.derekzoladz.com/",
     "icon": "https://raw.githubusercontent.com/alaoweb/status/main/img/alao-icon.png",
     "slug": "alao-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 327,
     "timeYear": 179,
     "dailyMinutesDown": {
+      "2025-07-06": 0,
       "2025-07-02": 103
     }
   },
